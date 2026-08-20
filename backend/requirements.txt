@@ -1,0 +1,16 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.8
+sqlalchemy>=2.0
+aiosqlite>=0.20
+psycopg[binary]>=3.2
+google-genai>=1.0
+scikit-learn>=1.5
+xgboost>=2.1
+pandas>=2.2
+numpy>=2.0
+shapely>=2.0
+ortools>=9.10
+opencv-python-headless>=4.10
+python-multipart>=0.0.9
+passlib[bcrypt]>=1.7
